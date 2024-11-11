@@ -1,10 +1,11 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		
+		"name": "Фембовария",
+		"leaderName": "Фемгустав Iv",
+		"adjective": ["фембоварский"],
+		"startBias": ["Grassland"],
+		"prefferedVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -25,14 +26,12 @@
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"tradeRequest": "We bestow you the honor of this trade offer",
+		
+		"outerColor": [255, 255, 255],
+		"innerColor": [245, 0, 245],
+		"uniqueName": "Няшная забота",
+		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Medic] promotion","[+3] Happiness <during a Golden Age>","[+1 Happiness] from every specialist [in all cities]"],
+		"cities": ["Фембойбург","Фем-Мюнхен","Юбкоберг","Фемшингтон","Нюдсен","Чулкенвар","Няшхилл","Хорн-юбкен","Санкт-Гарем"]
 	}
 ]
