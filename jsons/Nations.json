@@ -31,7 +31,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [245, 0, 245],
 		"uniqueName": "Няшная забота",
-		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Medic] promotion","[+3] Happiness <during a Golden Age>","[+1 Happiness] from every specialist [in all cities]"],
+		"uniques": ["All newly-trained [Land] units [in all cities] receive the [Medic] promotion","[+3 Happiness] <during a Golden Age>","[+1 Happiness] from every specialist [in all cities]"],
 		"cities": ["Фембойбург","Фем-Мюнхен","Юбкоберг","Фемшингтон","Нюдсен","Чулкенвар","Няшхилл","Хорн-юбкен","Санкт-Гарем"]
 	}
 ]
